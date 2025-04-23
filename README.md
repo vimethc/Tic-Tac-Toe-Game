@@ -38,12 +38,13 @@ A real-time multiplayer Tic Tac Toe game built using **Angular**, **Node.js**, *
 git clone https://github.com/vimethc/Tic-Tac-Toe-Game.git
 cd Tic-Tac-Toe-Game
 
-## Backend Setup
+
+### 2. Backend Setup
 cd server
 npm install
 npm start
 
-##Frontend Setup
+### 3. Frontend Setup
 cd client
 npm install
 ng serve
